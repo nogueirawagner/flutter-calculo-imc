@@ -1,6 +1,7 @@
-# flutter_app1
+# App com flutter e dart
 
-A new Flutter application.
+Utilizando widgets para teclado não ultrapassar texto.
+
 
 ## Getting Started
 
