@@ -5,11 +5,5 @@ Aplicativo feito em Flutter para fins de estudos.
   Validação de campos;
   Teclado não ficar por cima do texto
   Alteração de estados de campos
-  
-  
 
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+  <img src="https://github.com/nogueirawagner/in-memory-cache/blob/master/Results/GetOrCreate_2.jpg" alt="" />
