@@ -80,7 +80,7 @@ class _MyAppState extends State<MyApp> {
                         },
                         keyboardType: TextInputType.number,
                         decoration: InputDecoration(
-                            labelText: "Peso em kg",
+                            labelText: "Peso (kg)",
                             labelStyle: TextStyle(color: Colors.green)),
                         textAlign: TextAlign.center,
                         style: TextStyle(color: Colors.green, fontSize: 25.0),
@@ -93,7 +93,7 @@ class _MyAppState extends State<MyApp> {
                         },
                         keyboardType: TextInputType.number,
                         decoration: InputDecoration(
-                            labelText: "Altura cm",
+                            labelText: "Altura (cm)",
                             labelStyle: TextStyle(color: Colors.green)),
                         textAlign: TextAlign.center,
                         style: TextStyle(color: Colors.green, fontSize: 25.0),
