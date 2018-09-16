@@ -1,6 +1,12 @@
-# App com flutter e dart
+# App para calcular IMC.
 
-Utilizando widgets para teclado não ultrapassar texto.
+Aplicativo feito em Flutter para fins de estudos.
+- Conhecimentos adquiridos:
+  Validação de campos;
+  Teclado não ficar por cima do texto
+  Alteração de estados de campos
+  
+  
 
 
 ## Getting Started
